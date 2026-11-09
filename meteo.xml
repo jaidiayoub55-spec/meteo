@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE meteo SYSTEM "meteo.dtd">
+<meteo>
+    <mesure date="2023-12-05">
+        <ville nom="casa" temperature="30"/>
+        <ville nom="rabat" temperature="23"/>
+        <ville nom="mohammedia" temperature="25"/>
+        <ville nom="tanger" temperature="32"/>
+        <ville nom="rachidya" temperature="40"/>
+        <ville nom="marrakech" temperature="45"/>
+        <ville nom="fes" temperature="46"/>
+        <ville nom="meknas" temperature="42"/>
+    </mesure>
+    <mesure date="2025-11-01">
+        <ville nom="casa" temperature="26"/>
+        <ville nom="rabat" temperature="24"/>
+        <ville nom="mohammedia" temperature="23"/>
+        <ville nom="tanger" temperature="35"/>
+        <ville nom="rachidya" temperature="37"/>
+        <ville nom="marrakech" temperature="48"/>
+        <ville nom="fes" temperature="50"/>
+        <ville nom="meknas" temperature="44"/>
+    </mesure>
+</meteo>
